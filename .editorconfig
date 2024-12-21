@@ -1,0 +1,7 @@
+﻿[*.cs]
+
+# IDE0090: Usar "new(...)"
+dotnet_diagnostic.IDE0090.severity = none
+
+# IDE0051: Quitar miembros privados no utilizados
+dotnet_diagnostic.IDE0051.severity = none

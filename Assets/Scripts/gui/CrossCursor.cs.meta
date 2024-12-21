@@ -1,0 +1,27 @@
+fileFormatVersion: 2
+guid: 5656c8ad0e56c490aaac42523e1a9fd1
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - cruz: {fileID: 2800000, guid: aa0e64a6cf3e1485988af537059ac8ee, type: 3}
+  - empty: {fileID: 2800000, guid: 0a13a6313a0b34a45ad32b03e700af7b, type: 3}
+  - nompty: {fileID: 2800000, guid: 10bb9a9d7ea2448f3892e662c6986c50, type: 3}
+  - pur: {fileID: 2800000, guid: 56b5cc99b858e45cb9ee483e79287d1a, type: 3}
+  - ple: {fileID: 2800000, guid: 5f695a792241a4335ab41387bbb6069c, type: 3}
+  - gre: {fileID: 2800000, guid: cbc6211aa6f214ddcab06eac6c56debb, type: 3}
+  - een: {fileID: 2800000, guid: 346f03de2ce494cdf9b1e7fbe82d3428, type: 3}
+  - blu: {fileID: 2800000, guid: 51e30ca5652af43468bc7499fb0265f4, type: 3}
+  - lue: {fileID: 2800000, guid: 67080d60e44384e2c97296ffe214fb51, type: 3}
+  - ora: {fileID: 2800000, guid: ad86855762eb64d8382e3d4c66eb8a18, type: 3}
+  - nge: {fileID: 2800000, guid: 2b04f50ef265b426eab320e41e523d5c, type: 3}
+  - selector: {fileID: 2800000, guid: 30d9e888cac2d47d8a1fa6a84d0db57a, type: 3}
+  - render: {instanceID: 0}
+  - purp: {fileID: 2100000, guid: c0d6383fd43864574a9779f56411e381, type: 2}
+  - gree: {fileID: 2100000, guid: 827ca8a4049df43fdb1635ee59c72353, type: 2}
+  - none: {fileID: 2100000, guid: bfc815048864e4daeb2a783434345c26, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
